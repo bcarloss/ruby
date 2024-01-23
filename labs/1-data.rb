@@ -31,3 +31,4 @@ puts dice2
 
 # do the total
 puts total
+
